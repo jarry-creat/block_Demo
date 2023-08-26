@@ -1,0 +1,19 @@
+{
+  "name": "block_demo",
+  "version": "1.0.3",
+  "description": " A blockchain Demo",
+  "main": "src/blockChain.js",
+  "scripts": {
+    "test": "jest src/tests"
+  },
+  "author": "jeffery",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.3.0",
+    "elliptic": "^6.5.4",
+    "luotuocoin": "^1.0.3"
+  },
+  "devDependencies": {
+    "jest": "^25.5.4"
+  }
+}
